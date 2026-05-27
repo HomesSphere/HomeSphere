@@ -1,6 +1,6 @@
 import '/config/component_config.dart';
 import '/config/constants.dart';
-import '/config/icon_config.dart';
+import 'config/icon_config.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
